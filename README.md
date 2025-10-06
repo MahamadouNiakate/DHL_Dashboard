@@ -1,5 +1,4 @@
 # DHL_Dashboard
-Vous voulez cette description percutante, mais en anglais britannique ? Pas de problème. Voici la version qui frappe fort, sans le blabla.
 
 The Data Model That Reveals Your True Profit Margin
 This isn't some academic diagram. This is a war machine of analytics designed for delivery businesses that are serious about profit.
