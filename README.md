@@ -1,5 +1,22 @@
 # DHL_Dashboard
-jsdknbfkhf
+Vous voulez cette description percutante, mais en anglais britannique ? Pas de problème. Voici la version qui frappe fort, sans le blabla.
+
+The Data Model That Reveals Your True Profit Margin
+This isn't some academic diagram. This is a war machine of analytics designed for delivery businesses that are serious about profit.
+
+It answers the critical questions that are costing you money right now:
+
+WHICH client, WHICH sector, and WHICH vehicle type is making you the most money—and which ones you need to cut loose.
+
+The real performance rating of every driver and the actual impact of seniority (Does experience really matter?).
+
+The unvarnished truth about your Delivery Delays and your true hourly Productivity.
+
+This system connects your raw delivery data (fact_deliveries) with the key dimensions (Clients, Drivers, Vehicles, Time) to isolate and measure every single cost and revenue factor.
+
+The result? A dashboard (Measures_Dashboard) packed with brutal performance metrics (Delay Rate, Productivity by Account) that tells you EXACTLY where to hit to increase speed and stop the bleeding.
+
+This is the intelligence you need to dominate your market.
 
 <img width="1804" height="966" alt="image" src="https://github.com/user-attachments/assets/bc6eb45e-bb68-4dd6-b5d1-90d3fef18b2b" />
 
